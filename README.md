@@ -1,4 +1,4 @@
-# 📊 Investigação Estatística, Probabilística e Visual — Olist
+# 📊 Investigação Estatística, Probabilística e Visual — Brazilian E-Commerce (Olist)
 
 Projeto desenvolvido na disciplina de **Análise Avançada de Dados** com base no dataset **Brazilian E-Commerce (Olist)**, com foco em **limpeza, estruturação, análise estatística, probabilidade e visualização de dados**.
 
