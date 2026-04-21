@@ -1,0 +1,2 @@
+# Investigacao_Estatistica_Probabilistica_e_Visual-Brazilian-E-Commerce
+em construção
