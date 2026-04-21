@@ -74,7 +74,7 @@ Os gráficos foram construídos com foco em clareza e interpretação, considera
 
 ## 📂 Arquivos do Projeto
 - `Investigação_Estatística,_Probabilística_e_Visual.ipynb`
-- `df_sem_outliers.csv`
+- `Dataset_Tratado.csv`
 - `Relatório - Investigação Estatística, Probabilística e Visual.docx`
 
 ---
